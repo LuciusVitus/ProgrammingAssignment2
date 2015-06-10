@@ -1,3 +1,6 @@
+# My Submission for the Assignment 2 in R Programming by John Hopkins University 
+   Re-edit and re-submitted
+
 ### Introduction
 
 This second programming assignment will require you to write an R
